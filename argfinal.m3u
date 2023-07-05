@@ -103,30 +103,6 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 ,E Entertainment
 http://170.83.242.152:5350/play/a00r
-#EXTINF:-1 ,ESPN
-http://170.83.242.152:5350/play/a00u
-#EXTINF:-1 ,ESPN 2
-http://170.83.242.152:5350/play/a02u
-#EXTINF:-1 ,ESPN 2 Latin
-http://170.83.242.152:5350/play/a00t
-#EXTINF:-1 ,ESPN 3
-http://170.83.242.152:5350/play/a00h
-#EXTINF:-1 ,ESPN CO
-http://170.83.242.152:5350/play/a023
-#EXTINF:-1 ,Enlace
-http://170.83.242.152:5350/play/a03f
-#EXTINF:-1 ,FX
-http://170.83.242.152:5350/play/a006
-#EXTINF:-1 ,Fox Sports 1
-http://170.83.242.152:5350/play/a01h
-#EXTINF:-1 ,Fox Sports 2
-http://170.83.242.152:5350/play/a013
-#EXTINF:-1 ,Fox Sports 3
-http://170.83.242.152:5350/play/a014
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (480p) [Geo-blocked]
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 ,GOL TV
-http://170.83.242.152:5350/play/a00v
 #EXTINF:-1 ,HBO
 http://170.83.242.152:5350/play/a001
 #EXTINF:-1 ,HBO 2
