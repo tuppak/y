@@ -58,7 +58,6 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8?PlaylistM3UCL
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png", Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax (720p)
@@ -103,16 +102,6 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 ,E Entertainment
 http://170.83.242.152:5350/play/a00r
-#EXTINF:-1 ,HBO
-http://170.83.242.152:5350/play/a001
-#EXTINF:-1 ,HBO 2
-http://170.83.242.152:5350/play/a02o
-#EXTINF:-1 ,HBO Family
-http://170.83.242.152:5350/play/a02r
-#EXTINF:-1 ,HBO Plus
-http://170.83.242.152:5350/play/a02p
-#EXTINF:-1 ,HBO XTREME SD
-http://170.83.242.152:5350/play/a02q
 #EXTINF:-1 ,History Channel
 http://170.83.242.152:5350/play/a02z
 #EXTINF:-1 ,HomeandHealth
