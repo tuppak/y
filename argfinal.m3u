@@ -189,3 +189,18 @@ https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/427
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/62
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/300
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/63
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/64
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/814
